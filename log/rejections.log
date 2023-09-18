@@ -1,0 +1,212 @@
+2023-07-01T11:53:32.517Z error: uncaughtException: Router.use() requires a middleware function but got a Object
+TypeError: Router.use() requires a middleware function but got a Object
+    at Function.use (D:\Project NodeJS\lesson43 - IT_INFO V2\node_modules\express\lib\router\index.js:469:13)
+    at Object.<anonymous> (D:\Project NodeJS\lesson43 - IT_INFO V2\routes\index.routes.js:23:8)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+    at Module.require (node:internal/modules/cjs/loader:1157:19)
+    at require (node:internal/modules/helpers:119:18)
+    at Object.<anonymous> (D:\Project NodeJS\lesson43 - IT_INFO V2\app.js:45:20)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+2023-07-01T11:55:42.419Z error: uncaughtException: Router.use() requires a middleware function but got a Object
+TypeError: Router.use() requires a middleware function but got a Object
+    at Function.use (D:\Project NodeJS\lesson43 - IT_INFO V2\node_modules\express\lib\router\index.js:469:13)
+    at Object.<anonymous> (D:\Project NodeJS\lesson43 - IT_INFO V2\routes\index.routes.js:23:8)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+    at Module.require (node:internal/modules/cjs/loader:1157:19)
+    at require (node:internal/modules/helpers:119:18)
+    at Object.<anonymous> (D:\Project NodeJS\lesson43 - IT_INFO V2\app.js:45:20)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+2023-07-01T11:56:26.882Z error: uncaughtException: Router.use() requires a middleware function but got a Object
+TypeError: Router.use() requires a middleware function but got a Object
+    at Function.use (D:\Project NodeJS\lesson43 - IT_INFO V2\node_modules\express\lib\router\index.js:469:13)
+    at Object.<anonymous> (D:\Project NodeJS\lesson43 - IT_INFO V2\routes\index.routes.js:23:8)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+    at Module.require (node:internal/modules/cjs/loader:1157:19)
+    at require (node:internal/modules/helpers:119:18)
+    at Object.<anonymous> (D:\Project NodeJS\lesson43 - IT_INFO V2\app.js:45:20)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+2023-07-01T11:57:00.922Z error: uncaughtException: Router.use() requires a middleware function but got a Object
+TypeError: Router.use() requires a middleware function but got a Object
+    at Function.use (D:\Project NodeJS\lesson43 - IT_INFO V2\node_modules\express\lib\router\index.js:469:13)
+    at Object.<anonymous> (D:\Project NodeJS\lesson43 - IT_INFO V2\routes\index.routes.js:23:8)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+    at Module.require (node:internal/modules/cjs/loader:1157:19)
+    at require (node:internal/modules/helpers:119:18)
+    at Object.<anonymous> (D:\Project NodeJS\lesson43 - IT_INFO V2\app.js:45:20)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+2023-07-01T11:58:53.004Z error: uncaughtException: Router.use() requires a middleware function but got a Object
+TypeError: Router.use() requires a middleware function but got a Object
+    at Function.use (D:\Project NodeJS\lesson43 - IT_INFO V2\node_modules\express\lib\router\index.js:469:13)
+    at Object.<anonymous> (D:\Project NodeJS\lesson43 - IT_INFO V2\routes\index.routes.js:23:8)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+    at Module.require (node:internal/modules/cjs/loader:1157:19)
+    at require (node:internal/modules/helpers:119:18)
+    at Object.<anonymous> (D:\Project NodeJS\lesson43 - IT_INFO V2\app.js:45:20)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+2023-07-01T11:59:11.960Z error: uncaughtException: Router.use() requires a middleware function but got a Object
+TypeError: Router.use() requires a middleware function but got a Object
+    at Function.use (D:\Project NodeJS\lesson43 - IT_INFO V2\node_modules\express\lib\router\index.js:469:13)
+    at Object.<anonymous> (D:\Project NodeJS\lesson43 - IT_INFO V2\routes\index.routes.js:23:8)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+    at Module.require (node:internal/modules/cjs/loader:1157:19)
+    at require (node:internal/modules/helpers:119:18)
+    at Object.<anonymous> (D:\Project NodeJS\lesson43 - IT_INFO V2\app.js:45:20)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+2023-07-01T11:59:35.594Z error: uncaughtException: Router.use() requires a middleware function but got a Object
+TypeError: Router.use() requires a middleware function but got a Object
+    at Function.use (D:\Project NodeJS\lesson43 - IT_INFO V2\node_modules\express\lib\router\index.js:469:13)
+    at Object.<anonymous> (D:\Project NodeJS\lesson43 - IT_INFO V2\routes\index.routes.js:23:8)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+    at Module.require (node:internal/modules/cjs/loader:1157:19)
+    at require (node:internal/modules/helpers:119:18)
+    at Object.<anonymous> (D:\Project NodeJS\lesson43 - IT_INFO V2\app.js:45:20)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+2023-07-01T12:00:15.135Z error: uncaughtException: Router.use() requires a middleware function but got a Object
+TypeError: Router.use() requires a middleware function but got a Object
+    at Function.use (D:\Project NodeJS\lesson43 - IT_INFO V2\node_modules\express\lib\router\index.js:469:13)
+    at Object.<anonymous> (D:\Project NodeJS\lesson43 - IT_INFO V2\routes\index.routes.js:23:8)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+    at Module.require (node:internal/modules/cjs/loader:1157:19)
+    at require (node:internal/modules/helpers:119:18)
+    at Object.<anonymous> (D:\Project NodeJS\lesson43 - IT_INFO V2\app.js:45:20)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+2023-07-01T12:00:38.941Z error: uncaughtException: Router.use() requires a middleware function but got a Object
+TypeError: Router.use() requires a middleware function but got a Object
+    at Function.use (D:\Project NodeJS\lesson43 - IT_INFO V2\node_modules\express\lib\router\index.js:469:13)
+    at Object.<anonymous> (D:\Project NodeJS\lesson43 - IT_INFO V2\routes\index.routes.js:23:8)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+    at Module.require (node:internal/modules/cjs/loader:1157:19)
+    at require (node:internal/modules/helpers:119:18)
+    at Object.<anonymous> (D:\Project NodeJS\lesson43 - IT_INFO V2\app.js:48:20)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+2023-07-01T12:00:59.466Z error: uncaughtException: Router.use() requires a middleware function but got a Object
+TypeError: Router.use() requires a middleware function but got a Object
+    at Function.use (D:\Project NodeJS\lesson43 - IT_INFO V2\node_modules\express\lib\router\index.js:469:13)
+    at Object.<anonymous> (D:\Project NodeJS\lesson43 - IT_INFO V2\routes\index.routes.js:23:8)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+    at Module.require (node:internal/modules/cjs/loader:1157:19)
+    at require (node:internal/modules/helpers:119:18)
+    at Object.<anonymous> (D:\Project NodeJS\lesson43 - IT_INFO V2\app.js:47:20)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+2023-07-01T12:01:14.422Z error: uncaughtException: Router.use() requires a middleware function but got a Object
+TypeError: Router.use() requires a middleware function but got a Object
+    at Function.use (D:\Project NodeJS\lesson43 - IT_INFO V2\node_modules\express\lib\router\index.js:469:13)
+    at Object.<anonymous> (D:\Project NodeJS\lesson43 - IT_INFO V2\routes\index.routes.js:23:8)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+    at Module.require (node:internal/modules/cjs/loader:1157:19)
+    at require (node:internal/modules/helpers:119:18)
+    at Object.<anonymous> (D:\Project NodeJS\lesson43 - IT_INFO V2\app.js:45:20)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+2023-07-01T12:01:21.192Z error: uncaughtException: Router.use() requires a middleware function but got a Object
+TypeError: Router.use() requires a middleware function but got a Object
+    at Function.use (D:\Project NodeJS\lesson43 - IT_INFO V2\node_modules\express\lib\router\index.js:469:13)
+    at Object.<anonymous> (D:\Project NodeJS\lesson43 - IT_INFO V2\routes\index.routes.js:23:8)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+    at Module.require (node:internal/modules/cjs/loader:1157:19)
+    at require (node:internal/modules/helpers:119:18)
+    at Object.<anonymous> (D:\Project NodeJS\lesson43 - IT_INFO V2\app.js:47:20)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+2023-07-01T12:01:28.904Z error: uncaughtException: Router.use() requires a middleware function but got a Object
+TypeError: Router.use() requires a middleware function but got a Object
+    at Function.use (D:\Project NodeJS\lesson43 - IT_INFO V2\node_modules\express\lib\router\index.js:469:13)
+    at Object.<anonymous> (D:\Project NodeJS\lesson43 - IT_INFO V2\routes\index.routes.js:23:8)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+    at Module.require (node:internal/modules/cjs/loader:1157:19)
+    at require (node:internal/modules/helpers:119:18)
+    at Object.<anonymous> (D:\Project NodeJS\lesson43 - IT_INFO V2\app.js:45:20)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+2023-07-01T12:01:46.110Z error: uncaughtException: Router.use() requires a middleware function but got a Object
+TypeError: Router.use() requires a middleware function but got a Object
+    at Function.use (D:\Project NodeJS\lesson43 - IT_INFO V2\node_modules\express\lib\router\index.js:469:13)
+    at Object.<anonymous> (D:\Project NodeJS\lesson43 - IT_INFO V2\routes\index.routes.js:24:8)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+    at Module.require (node:internal/modules/cjs/loader:1157:19)
+    at require (node:internal/modules/helpers:119:18)
+    at Object.<anonymous> (D:\Project NodeJS\lesson43 - IT_INFO V2\app.js:45:20)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+2023-07-01T12:05:07.479Z error: uncaughtException: Cannot find module '../helpers/create_view_path.js'
+Require stack:
+- D:\Project NodeJS\lesson43 - IT_INFO V2\routes\view.routes.js
+- D:\Project NodeJS\lesson43 - IT_INFO V2\routes\index.routes.js
+- D:\Project NodeJS\lesson43 - IT_INFO V2\app.js
+Error: Cannot find module '../helpers/create_view_path.js'
+Require stack:
+- D:\Project NodeJS\lesson43 - IT_INFO V2\routes\view.routes.js
+- D:\Project NodeJS\lesson43 - IT_INFO V2\routes\index.routes.js
+- D:\Project NodeJS\lesson43 - IT_INFO V2\app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1090:15)
+    at Module._load (node:internal/modules/cjs/loader:934:27)
+    at Module.require (node:internal/modules/cjs/loader:1157:19)
+    at require (node:internal/modules/helpers:119:18)
+    at Object.<anonymous> (D:\Project NodeJS\lesson43 - IT_INFO V2\routes\view.routes.js:4:28)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+    at Module.require (node:internal/modules/cjs/loader:1157:19)
+2023-07-01T12:06:23.374Z error: unhandledRejection: The "path" argument must be of type string. Received undefined
+TypeError [ERR_INVALID_ARG_TYPE]: The "path" argument must be of type string. Received undefined
+    at new NodeError (node:internal/errors:399:5)
+    at validateString (node:internal/validators:163:11)
+    at extname (node:path:841:5)
+    at new View (D:\Project NodeJS\lesson43 - IT_INFO V2\node_modules\express\lib\view.js:56:14)
+    at Function.render (D:\Project NodeJS\lesson43 - IT_INFO V2\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (D:\Project NodeJS\lesson43 - IT_INFO V2\node_modules\express\lib\response.js:1039:7)
+    at D:\Project NodeJS\lesson43 - IT_INFO V2\routes\view.routes.js:19:9
+    at Layer.handle [as handle_request] (D:\Project NodeJS\lesson43 - IT_INFO V2\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Project NodeJS\lesson43 - IT_INFO V2\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (D:\Project NodeJS\lesson43 - IT_INFO V2\node_modules\express\lib\router\route.js:114:3)
+2023-07-01T12:45:26.824Z error: unhandledRejection: authors is not defined
+ReferenceError: authors is not defined
+    at D:\Project NodeJS\lesson43 - IT_INFO V2\routes\view.routes.js:37:18
+    at Layer.handle [as handle_request] (D:\Project NodeJS\lesson43 - IT_INFO V2\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Project NodeJS\lesson43 - IT_INFO V2\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (D:\Project NodeJS\lesson43 - IT_INFO V2\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (D:\Project NodeJS\lesson43 - IT_INFO V2\node_modules\express\lib\router\layer.js:95:5)
+    at D:\Project NodeJS\lesson43 - IT_INFO V2\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\Project NodeJS\lesson43 - IT_INFO V2\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\Project NodeJS\lesson43 - IT_INFO V2\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\Project NodeJS\lesson43 - IT_INFO V2\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\Project NodeJS\lesson43 - IT_INFO V2\node_modules\express\lib\router\index.js:47:12)
